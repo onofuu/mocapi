@@ -1,4 +1,5 @@
-[
+{
+"posts": [
   {
     "coms": "Battletops",
     "idx": 5651,
@@ -105,3 +106,4 @@
     "scriptLine": "    <script async src=\\\"https://embed.reddit.com/widgets.js\\\" charset=\\\"UTF-8\\\"></script>"
   }
 ]
+}
